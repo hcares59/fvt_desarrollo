@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://manager.cl/productos/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://manager.cl/productos/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://manager.cl/productos/">
+      <s:element name="ConsultaProd">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rutEmpresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaProdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaProdResult" type="tns:ArrayOfConsultaProd" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfConsultaProd">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="consultaProd" nillable="true" type="tns:consultaProd" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="consultaProd">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="codigo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="obs" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="factorConversion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="taxPje" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="taxTipo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="unidMed" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="categDescto" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="categDesctoFactorPrecio" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="categDesctoFactorComision" type="s:double" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ProductosConInfoFinanciera">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rutEmpresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ProductosConInfoFinancieraResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ProductosConInfoFinancieraResult" type="tns:transaccionResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="transaccionResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Mensaje" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Error" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Ok" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Data" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="consultaListaPrec">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rutEmpresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultaListaPrecResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consultaListaPrecResult" type="tns:ArrayOfListaDePrecios" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfListaDePrecios">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ListaDePrecios" nillable="true" type="tns:ListaDePrecios" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ListaDePrecios">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ListaProd" type="tns:ArrayOfProdEnListadePrecios" />
+          <s:element minOccurs="0" maxOccurs="1" name="nombreListaPrecio" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="idMoneda" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfProdEnListadePrecios">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="prodEnListadePrecios" nillable="true" type="tns:prodEnListadePrecios" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="prodEnListadePrecios">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="idProducto" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="precioLista" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="consultaPrecioStock">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rutEmpresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pm_codigo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="consultaPrecioStockResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consultaPrecioStockResult" type="tns:ProductoPrecioStock" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ProductoPrecioStock">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="stockFisico" type="tns:ArrayOfRegistroStockFisico" />
+          <s:element minOccurs="0" maxOccurs="1" name="desctoVolumen" type="tns:ArrayOfDescuentoVolumen" />
+          <s:element minOccurs="0" maxOccurs="1" name="codigo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="precioUnitario" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfRegistroStockFisico">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="RegistroStockFisico" nillable="true" type="tns:RegistroStockFisico" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="RegistroStockFisico">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="bodega" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="stockFisico" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfDescuentoVolumen">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="descuentoVolumen" nillable="true" type="tns:descuentoVolumen" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="descuentoVolumen">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="min" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="max" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="porcDescto" type="s:double" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ArrayOfConsultaProd" nillable="true" type="tns:ArrayOfConsultaProd" />
+      <s:element name="transaccionResult" nillable="true" type="tns:transaccionResult" />
+      <s:element name="ArrayOfListaDePrecios" nillable="true" type="tns:ArrayOfListaDePrecios" />
+      <s:element name="ProductoPrecioStock" nillable="true" type="tns:ProductoPrecioStock" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ConsultaProdSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaProd" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaProdSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaProdResponse" />
+  </wsdl:message>
+  <wsdl:message name="ProductosConInfoFinancieraSoapIn">
+    <wsdl:part name="parameters" element="tns:ProductosConInfoFinanciera" />
+  </wsdl:message>
+  <wsdl:message name="ProductosConInfoFinancieraSoapOut">
+    <wsdl:part name="parameters" element="tns:ProductosConInfoFinancieraResponse" />
+  </wsdl:message>
+  <wsdl:message name="consultaListaPrecSoapIn">
+    <wsdl:part name="parameters" element="tns:consultaListaPrec" />
+  </wsdl:message>
+  <wsdl:message name="consultaListaPrecSoapOut">
+    <wsdl:part name="parameters" element="tns:consultaListaPrecResponse" />
+  </wsdl:message>
+  <wsdl:message name="consultaPrecioStockSoapIn">
+    <wsdl:part name="parameters" element="tns:consultaPrecioStock" />
+  </wsdl:message>
+  <wsdl:message name="consultaPrecioStockSoapOut">
+    <wsdl:part name="parameters" element="tns:consultaPrecioStockResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaProdHttpGetIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaProdHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfConsultaProd" />
+  </wsdl:message>
+  <wsdl:message name="ProductosConInfoFinancieraHttpGetIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ProductosConInfoFinancieraHttpGetOut">
+    <wsdl:part name="Body" element="tns:transaccionResult" />
+  </wsdl:message>
+  <wsdl:message name="consultaListaPrecHttpGetIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="consultaListaPrecHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfListaDePrecios" />
+  </wsdl:message>
+  <wsdl:message name="consultaPrecioStockHttpGetIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+    <wsdl:part name="pm_codigo" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="consultaPrecioStockHttpGetOut">
+    <wsdl:part name="Body" element="tns:ProductoPrecioStock" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaProdHttpPostIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaProdHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfConsultaProd" />
+  </wsdl:message>
+  <wsdl:message name="ProductosConInfoFinancieraHttpPostIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ProductosConInfoFinancieraHttpPostOut">
+    <wsdl:part name="Body" element="tns:transaccionResult" />
+  </wsdl:message>
+  <wsdl:message name="consultaListaPrecHttpPostIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="consultaListaPrecHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfListaDePrecios" />
+  </wsdl:message>
+  <wsdl:message name="consultaPrecioStockHttpPostIn">
+    <wsdl:part name="rutEmpresa" type="s:string" />
+    <wsdl:part name="token" type="s:string" />
+    <wsdl:part name="pm_codigo" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="consultaPrecioStockHttpPostOut">
+    <wsdl:part name="Body" element="tns:ProductoPrecioStock" />
+  </wsdl:message>
+  <wsdl:portType name="ProductosSoap">
+    <wsdl:operation name="ConsultaProd">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta listado de productos </wsdl:documentation>
+      <wsdl:input message="tns:ConsultaProdSoapIn" />
+      <wsdl:output message="tns:ConsultaProdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ProductosConInfoFinanciera">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta listado de productos con información financiera </wsdl:documentation>
+      <wsdl:input message="tns:ProductosConInfoFinancieraSoapIn" />
+      <wsdl:output message="tns:ProductosConInfoFinancieraSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultaListaPrec">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Entrega arreglo de listas de precios de producto</wsdl:documentation>
+      <wsdl:input message="tns:consultaListaPrecSoapIn" />
+      <wsdl:output message="tns:consultaListaPrecSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultaPrecioStock">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta Precio,stock</wsdl:documentation>
+      <wsdl:input message="tns:consultaPrecioStockSoapIn" />
+      <wsdl:output message="tns:consultaPrecioStockSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="ProductosHttpGet">
+    <wsdl:operation name="ConsultaProd">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta listado de productos </wsdl:documentation>
+      <wsdl:input message="tns:ConsultaProdHttpGetIn" />
+      <wsdl:output message="tns:ConsultaProdHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ProductosConInfoFinanciera">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta listado de productos con información financiera </wsdl:documentation>
+      <wsdl:input message="tns:ProductosConInfoFinancieraHttpGetIn" />
+      <wsdl:output message="tns:ProductosConInfoFinancieraHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultaListaPrec">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Entrega arreglo de listas de precios de producto</wsdl:documentation>
+      <wsdl:input message="tns:consultaListaPrecHttpGetIn" />
+      <wsdl:output message="tns:consultaListaPrecHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultaPrecioStock">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta Precio,stock</wsdl:documentation>
+      <wsdl:input message="tns:consultaPrecioStockHttpGetIn" />
+      <wsdl:output message="tns:consultaPrecioStockHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="ProductosHttpPost">
+    <wsdl:operation name="ConsultaProd">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta listado de productos </wsdl:documentation>
+      <wsdl:input message="tns:ConsultaProdHttpPostIn" />
+      <wsdl:output message="tns:ConsultaProdHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ProductosConInfoFinanciera">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta listado de productos con información financiera </wsdl:documentation>
+      <wsdl:input message="tns:ProductosConInfoFinancieraHttpPostIn" />
+      <wsdl:output message="tns:ProductosConInfoFinancieraHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultaListaPrec">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Entrega arreglo de listas de precios de producto</wsdl:documentation>
+      <wsdl:input message="tns:consultaListaPrecHttpPostIn" />
+      <wsdl:output message="tns:consultaListaPrecHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="consultaPrecioStock">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Consulta Precio,stock</wsdl:documentation>
+      <wsdl:input message="tns:consultaPrecioStockHttpPostIn" />
+      <wsdl:output message="tns:consultaPrecioStockHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ProductosSoap" type="tns:ProductosSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaProd">
+      <soap:operation soapAction="http://manager.cl/productos/ConsultaProd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductosConInfoFinanciera">
+      <soap:operation soapAction="http://manager.cl/productos/ProductosConInfoFinanciera" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaListaPrec">
+      <soap:operation soapAction="http://manager.cl/productos/consultaListaPrec" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaPrecioStock">
+      <soap:operation soapAction="http://manager.cl/productos/consultaPrecioStock" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ProductosSoap12" type="tns:ProductosSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaProd">
+      <soap12:operation soapAction="http://manager.cl/productos/ConsultaProd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductosConInfoFinanciera">
+      <soap12:operation soapAction="http://manager.cl/productos/ProductosConInfoFinanciera" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaListaPrec">
+      <soap12:operation soapAction="http://manager.cl/productos/consultaListaPrec" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaPrecioStock">
+      <soap12:operation soapAction="http://manager.cl/productos/consultaPrecioStock" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ProductosHttpGet" type="tns:ProductosHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="ConsultaProd">
+      <http:operation location="/ConsultaProd" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductosConInfoFinanciera">
+      <http:operation location="/ProductosConInfoFinanciera" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaListaPrec">
+      <http:operation location="/consultaListaPrec" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaPrecioStock">
+      <http:operation location="/consultaPrecioStock" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ProductosHttpPost" type="tns:ProductosHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="ConsultaProd">
+      <http:operation location="/ConsultaProd" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProductosConInfoFinanciera">
+      <http:operation location="/ProductosConInfoFinanciera" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaListaPrec">
+      <http:operation location="/consultaListaPrec" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="consultaPrecioStock">
+      <http:operation location="/consultaPrecioStock" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Productos">
+    <wsdl:port name="ProductosSoap" binding="tns:ProductosSoap">
+      <soap:address location="https://api.manager.cl/sec/prod/productos.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ProductosSoap12" binding="tns:ProductosSoap12">
+      <soap12:address location="https://api.manager.cl/sec/prod/productos.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ProductosHttpGet" binding="tns:ProductosHttpGet">
+      <http:address location="https://api.manager.cl/sec/prod/productos.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ProductosHttpPost" binding="tns:ProductosHttpPost">
+      <http:address location="https://api.manager.cl/sec/prod/productos.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,224 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WMS Favatex
+</name>
+</assembly>
+<members>
+<member name="T:WMS_Favatex.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:WMS_Favatex.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:WMS_Favatex.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.Productos">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.#ctor">
+<remarks/>
+</member>
+<member name="E:WMS_Favatex.cl.manager.api.Productos.ConsultaProdCompleted">
+<remarks/>
+</member>
+<member name="E:WMS_Favatex.cl.manager.api.Productos.ProductosConInfoFinancieraCompleted">
+<remarks/>
+</member>
+<member name="E:WMS_Favatex.cl.manager.api.Productos.consultaListaPrecCompleted">
+<remarks/>
+</member>
+<member name="E:WMS_Favatex.cl.manager.api.Productos.consultaPrecioStockCompleted">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.ConsultaProd(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.ConsultaProdAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.ConsultaProdAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.ProductosConInfoFinanciera(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.ProductosConInfoFinancieraAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.ProductosConInfoFinancieraAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.consultaListaPrec(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.consultaListaPrecAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.consultaListaPrecAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.consultaPrecioStock(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.consultaPrecioStockAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.consultaPrecioStockAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WMS_Favatex.cl.manager.api.Productos.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.consultaProd">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.codigo">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.nombre">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.obs">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.factorConversion">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.taxPje">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.taxTipo">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.unidMed">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.categDescto">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.categDesctoFactorPrecio">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaProd.categDesctoFactorComision">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.descuentoVolumen">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.descuentoVolumen.min">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.descuentoVolumen.max">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.descuentoVolumen.porcDescto">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.RegistroStockFisico">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.RegistroStockFisico.bodega">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.RegistroStockFisico.stockFisico">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.ProductoPrecioStock">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ProductoPrecioStock.stockFisico">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ProductoPrecioStock.desctoVolumen">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ProductoPrecioStock.codigo">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ProductoPrecioStock.precioUnitario">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.prodEnListadePrecios">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.prodEnListadePrecios.idProducto">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.prodEnListadePrecios.precioLista">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.ListaDePrecios">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ListaDePrecios.ListaProd">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ListaDePrecios.nombreListaPrecio">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ListaDePrecios.idMoneda">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.transaccionResult">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.transaccionResult.Mensaje">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.transaccionResult.Error">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.transaccionResult.Ok">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.transaccionResult.Data">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.ConsultaProdCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.ConsultaProdCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ConsultaProdCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.ProductosConInfoFinancieraCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.ProductosConInfoFinancieraCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.ProductosConInfoFinancieraCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.consultaListaPrecCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.consultaListaPrecCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaListaPrecCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.consultaPrecioStockCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WMS_Favatex.cl.manager.api.consultaPrecioStockCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WMS_Favatex.cl.manager.api.consultaPrecioStockCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

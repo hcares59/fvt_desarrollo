@@ -1,0 +1,219 @@
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\bin\Debug\WMS Favatex.exe
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\bin\Debug\WMS Favatex.pdb
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\bin\Debug\WMS Favatex.xml
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS Favatex.vbprojResolveAssemblyReference.cache
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS_Favatex.Resources.resources
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS Favatex.vbproj.GenerateResource.Cache
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS Favatex.exe
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS Favatex.xml
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS Favatex.pdb
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS_Favatex.Desktop.resources
+C:\Users\desarrollo\AppData\Local\Temporary Projects\WMS Favatex\obj\Debug\WMS_Favatex.frm_solicitud_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS Favatex.vbproj.ResolveComReference.cache
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_asignacion_ubicaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_bodega_tipo_ubicacion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_configuracion_ubicaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_conteo_producto.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_recepcion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_altura.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_posicion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_rack.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ubicaciones_edicion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_seg_capacidad.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_tipo_ubicaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_zona.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_tipo_ubicaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_altura.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_posiciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_rack.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_seg_capacidad.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_ubicaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_zona.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.Desktop.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_edicion_guias_pallets.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_datos_despacho.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_embarques.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_gd_pallets.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_guias_pallets.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_productos_pendiente_embarque.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frmDesktop.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frmInicioSesion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_imprimir.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_inicio_sesion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_resumen.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_movimientos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_movimientos_recepcion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_movimiento_productos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_busqueda_productos_para_relacionar.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_cobro_facturas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_consolidado_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_dev_buscar_prodecto_por_documento.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_dev_buscar_producto_por_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_agenda.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_citas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_ordenes_de_compra.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_picking_diario.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_productos_relacionados.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_mant_factura.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_mant_guia.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_rendicion_factura.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_devoluciones_por_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_facturacion_guias.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_modificacion_facturavb.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_modificacion_guias.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_certificado_recepcion_conforme.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_devolucion_por_picking_muestra.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_facturacion_por_guia.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_impresion_etiquetas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_impresion_etiquetas_por_productos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_imprime_vta_prendiente.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_pallet.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_trans_externos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_pallet.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_transp_externo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_factura_nota_credito.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_mant_picking_ubicaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_validacion_facturas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_tipo_devoluciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_vehiculo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_tipo_vehiculo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_tipo_devolucion.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_tipo_vehiculo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_despacho.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_devoluciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_facturacion_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_agenda.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_despacha_ordenes.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_devolucion_importaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_facturacion_ordenes.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_factura_ordenes.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_genera_solicitud_entrega.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_picking_por_agenda.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_picking_por_citas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_picking_sugerido.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_solicitud_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_asigna_privilegios.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_cambio_contrasena.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_clientes_productos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_bodegas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_calidad.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_cartera.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_categoria.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_colores.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_productos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_subcategoria.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_tipo_documento.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_tipo_multimedia.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_umedida.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_usuarios.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_bodega.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_calidad.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_carteras.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_categoria.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_color.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_productos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_subcategoria.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_tipo_documento.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_tipo_multimedia.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_umedida.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_usuario.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_vehiculo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_asocia_producto_bodega.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_asocia_producto_de_reemplazo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_gnera_fila_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_agenda.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_citas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_mant_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_orden_compra.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.Resources.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_lista_precio_manager.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_orden_compra_proveedor.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_recepciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_paletizar.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_productos_muestra.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.rec_orden_compra.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS Favatex.vbproj.GenerateResource.Cache
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS Favatex.xml
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\Mantenedores Generales\Listados\frm_listado_transp_externo.resx
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\Mantenedores Generales\Listados\frm_listado_transp_externo.Designer.vb
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\Mantenedores Generales\Listados\frm_listado_transp_externo.vb
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\WMS Favatex.exe.config
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\WMS Favatex.exe
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\WMS Favatex.pdb
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\WMS Favatex.xml
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\FlashControlV71.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\System.Web.Services.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\stdole.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS Favatex.exe
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS Favatex.pdb
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_informe_devoluciones_por_tipo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_facturas_rendidas_vs_pendientes.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_ventas_pendientes.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_informe_uni_desp_vs_compra.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_rendicion_guia.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_tarjeta_existencia.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_paletiza_oc.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_img_pallet.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_kpi.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_areas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_areas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_glosa.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_glosas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frmVisorOrdenCompraProveedor.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_ubicaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_ubicacion_old.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ubicacion_asocia_proveedor.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_motivo_cierre.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_motivo_cierre.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_seleciona_motivo_cierre.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_visor_recepciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_asignaciones.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_fill_rate.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_movimiento_de_pallet.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_movimiento_pallet.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_reubicacion_de_bultos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frmNewDesktop.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frmMenu.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_asigna_privilegios_new.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_consulta_vv.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_abastecimiento_para_pk.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ubicacion_asocia_producto_bulto.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frmmono.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_cargos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_cargos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_homologacion_productos.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_generacion_archivo_nv.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_modifica_registro.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_ordenes_abastecimiento.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_oden_para_picking.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listados_productos_reemplazo.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_tablas_genericas.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_tabla_generica.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_ingreso_tabla_generica_detalle.resources
+C:\Users\desarrollo\Documents\Development\WMS Favatex\WMS Favatex\obj\Debug\WMS_Favatex.frm_listado_ordenes_pk_listado.resources
+C:\Users\desarrollo\Documents\Fuentes Favatex\WMS Favatex\bin\Debug\WMS Favatex.exe.config
+C:\Users\desarrollo\Documents\Fuentes Favatex\WMS Favatex\obj\Debug\WMS Favatex.vbproj.ResolveComReference.cache
+C:\Users\desarrollo\Documents\Fuentes Favatex\WMS Favatex\obj\Debug\WMS Favatex.exe
+C:\Users\desarrollo\Documents\Fuentes Favatex\WMS Favatex\obj\Debug\WMS Favatex.xml
+C:\Users\desarrollo\Documents\Fuentes Favatex\WMS Favatex\obj\Debug\WMS Favatex.pdb

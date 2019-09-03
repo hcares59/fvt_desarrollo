@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://api.manager.cl/sec/prod/productos.asmx?wsdl" docRef="https://api.manager.cl/sec/prod/productos.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://api.manager.cl/sec/prod/productos.asmx" xmlns:q1="http://manager.cl/productos/" binding="q1:ProductosSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://api.manager.cl/sec/prod/productos.asmx" xmlns:q2="http://manager.cl/productos/" binding="q2:ProductosSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
